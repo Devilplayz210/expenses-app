@@ -1,0 +1,17 @@
+{
+  "name": "Expenses - Personal Finance",
+  "short_name": "Expenses",
+  "description": "Smart, private and offline-capable personal finance tracker",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#0a4d3c",
+  "theme_color": "#0a4d3c",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

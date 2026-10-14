@@ -1,0 +1,12 @@
+{
+  "name": "expenses-app",
+  "version": "1.0.0",
+  "description": "Mobile-friendly Expenses personal finance web application",
+  "main": "server.py",
+  "scripts": {
+    "start": "python3 server.py",
+    "serve": "python3 -m http.server 8000"
+  },
+  "keywords": ["expenses", "finance", "mobile", "pwa"],
+  "license": "MIT"
+}

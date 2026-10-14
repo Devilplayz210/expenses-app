@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Firebase
+.firebase/
+*-debug.log
+firebase-debug.log*
+firestore-debug.log*
+
+# PocketDev & Workspace metadata
+.pocketdev/
+attachments/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

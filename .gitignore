@@ -12,6 +12,7 @@ firestore-debug.log*
 attachments/
 
 # Python
+publish_github.py
 __pycache__/
 *.py[cod]
 

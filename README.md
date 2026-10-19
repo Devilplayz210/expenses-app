@@ -6,6 +6,9 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](index.html)
 [![Firebase](https://img.shields.io/badge/Firebase-Auth%20%26%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](firebase-config.js)
 
+> 🚀 **Live Web App:** **[https://expenses-c13a8.web.app](https://expenses-c13a8.web.app)**  
+> *Click the link above to test the live application instantly in your browser (supports Guest mode & cloud sync).*
+
 **Expenses** is a modern, high-performance, and offline-capable Progressive Web Application (PWA) designed to give you total control over your personal finances. Track daily expenses and income, capture photo receipts, monitor monthly category budgets, analyze rolling trends, and seamlessly synchronize your data across devices with Firebase.
 
 ---
